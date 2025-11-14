@@ -1,8 +1,8 @@
-# Mean Field Microcircuit Model
+# Neural Mass Microcircuit Model
 ===================================================================================================================================================================
 Author: Alexandre Guet-McCreight
 
-## This is the readme for usage of the mean field model described within:
+## This is the readme for usage of the neural mass model described within:
 circuit0_definitions.py.
 
 ## To run model optimization:
